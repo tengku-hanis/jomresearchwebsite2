@@ -1,0 +1,34 @@
+project:
+  type: website
+
+website:
+  title: "Jom Research"
+  favicon: /images/logo4_gimp.jpg 
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: webinar.qmd
+        text: Webinars
+      - href: recording.qmd
+        text: Recordings
+      - href: about.qmd
+        text: About
+      - href: contact.qmd
+        text: Contact Us
+
+  page-footer: 
+    center: |
+      {{< fa regular copyright >}} Jom Research, 2023-2025<br>
+      All rights are reserved 
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+

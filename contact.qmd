@@ -1,0 +1,57 @@
+---
+title: "Contact Us"
+---
+
+For any inquiries, please get in touch with us.
+
+<form name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field" action="/thank-you">
+
+<!-- Hidden input for Netlify -->
+
+<input type="hidden" name="form-name" value="contact">
+
+<!-- Anti-bot honeypot field (hidden from users) -->
+
+::: {style="display:none"}
+```         
+   <label>Don’t fill this out: <input name="bot-field"></label>
+```
+:::
+
+<!-- Name field -->
+
+<p><label for="name">Your Name:</label><br> <input type="text" name="name" id="name" placeholder="Enter your name" required style="width: 100%;"></p>
+
+<!-- Email field -->
+
+<p><label for="email">Your Email:</label><br> <input type="email" name="email" id="email" placeholder="Enter your email" required style="width: 100%;"></p>
+
+<!-- Subject field -->
+
+<p><label for="subject">Subject:</label><br> <input type="text" name="subject" id="subject" placeholder="Enter the subject of your email" required style="width: 100%;"></p>
+
+<!-- Message field -->
+
+<p>
+
+<label for="message">Your Message:</label><br>
+
+```{=html}
+<textarea name="message" id="message" placeholder="Write your message here" required style="width: 100%;"></textarea>
+```
+
+</p>
+
+<!-- Submit button -->
+
+<p>
+
+<button type="submit">
+
+Send
+
+</button>
+
+</p>
+
+</form>

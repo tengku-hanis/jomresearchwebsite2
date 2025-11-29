@@ -1,0 +1,17 @@
+---
+about: 
+  template: jolla
+  image: images/banner_cropped.png
+  image-shape: rectangle
+  links:
+    - icon: facebook
+      text: Facebook
+      href: https://www.facebook.com/profile.php?id=100095502845075
+    - icon: instagram
+      text: Instagram
+      href: https://www.youtube.com/@tengkuhanis/featured
+---
+
+We help postgraduate students, early‑career researchers, and junior lecturers by providing webinars and webinar recordings on statistical analysis and research.
+
+Check out our [future webinars](webinar.qmd) and [webinar recordings](recording.qmd)!

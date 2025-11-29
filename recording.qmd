@@ -1,0 +1,17 @@
+---
+title: "Webinar Recordings"
+listing:
+  contents: recordings
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields:
+    - title
+    - date
+    - image
+    - categories
+  page-size: 10
+page-layout: full
+---
