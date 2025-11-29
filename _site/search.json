@@ -1,10 +1,17 @@
 [
   {
+    "objectID": "webinar.html",
+    "href": "webinar.html",
+    "title": "Webinars",
+    "section": "",
+    "text": "Due to an ongoing company restructuring, live webinars are temporarily suspended. Recorded webinar sessions remain available for purchase.\nThank you for your understanding, we plan to resume live webinars once the reorganisation is complete."
+  },
+  {
     "objectID": "recordings/2024-12-03-machine-learning-with-r/index.html",
     "href": "recordings/2024-12-03-machine-learning-with-r/index.html",
     "title": "Machine learning with R",
     "section": "",
-    "text": "The material for this webinar is available for purchase:\n\nTitle: Machine learning with R\nLanguage: English\nPrice: RM350 (3-days recording, slides, R codes, and dummy data will be provided)\nContent:\n\nIntroduction to R and RStudio\nBasic concepts and terms in machine learning\nRegression algorithms\nClassification algorithms\nHyperparameters tuning\nEnsemble machine learning\nExplainable machine learning\nIntroduction to deep learning\nHands-on session in R\n\n\nGo to Recordings"
+    "text": "The material for this webinar is available for purchase:\n\nTitle: Machine learning with R\nLanguage: English\nPrice: RM350 (3-days recording, slides, R codes, and dummy data will be provided)\nContent:\n\nIntroduction to R and RStudio\nBasic concepts and terms in machine learning\nRegression algorithms\nClassification algorithms\nHyperparameters tuning\nEnsemble machine learning\nExplainable machine learning\nIntroduction to deep learning\nHands-on session in R\n\n\nBuy material:\n\n For local\n For international\n\nGo to Recordings"
   },
   {
     "objectID": "recordings/2024-03-01-correlation-and-regression-analysis-using-spss-jamovi/index.html",
@@ -145,12 +152,5 @@
     "title": "Thank You!",
     "section": "",
     "text": "We have received your message and will respond as soon as possible.\n\nBack to Contact Me"
-  },
-  {
-    "objectID": "webinar.html",
-    "href": "webinar.html",
-    "title": "Webinars",
-    "section": "",
-    "text": "Due to an ongoing company restructuring, live webinars are temporarily suspended. Recorded webinar sessions remain available for purchase.\nThank you for your understanding; we plan to resume live webinars once the reorganization is complete."
   }
 ]

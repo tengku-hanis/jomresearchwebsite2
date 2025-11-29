@@ -26,4 +26,10 @@ The material for this webinar is available for purchase:
     8.  Introduction to deep learning
     9.  Hands-on session in R
 
+**Buy material:**
+
+- [<i class="fa-solid fa-cart-shopping" aria-hidden="true"></i> For local](https://toyyibpay.com/Machine-learning-with-R){target="_blank" rel="noopener noreferrer"}
+- [<i class="fa-solid fa-cart-shopping" aria-hidden="true"></i> For international](https://toyyibpay.com/Testing-for-email){target="_blank" rel="noopener noreferrer"}
+
+
 [Go to Recordings](../../recording.qmd)
