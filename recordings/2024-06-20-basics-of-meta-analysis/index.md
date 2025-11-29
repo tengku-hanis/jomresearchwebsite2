@@ -8,7 +8,7 @@ categories:
     - 2024
 ---
 
-![](featured.png)
+![](featured.png){width="303"}
 
 The material for this webinar is available for purchase:
 
