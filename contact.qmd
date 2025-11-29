@@ -4,7 +4,7 @@ title: "Contact Us"
 
 For any inquiries, please get in touch with us.
 
-<form name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field" action="/thank-you">
+<form name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field" action="thank-you">
 
 <!-- Hidden input for Netlify -->
 
