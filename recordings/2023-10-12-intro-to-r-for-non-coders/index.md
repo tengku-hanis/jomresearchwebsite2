@@ -25,4 +25,6 @@ The material for this webinar is available for purchase:
     8.  Basic plots
     9.  Hands-on
 
+**Buy material:** [<i class="fa-solid fa-cart-shopping" aria-hidden="true"></i> Click to buy](https://toyyibpay.com/Intro-to-R){target="_blank" rel="noopener noreferrer"}
+
 [Go to Recordings](../../recording.qmd)

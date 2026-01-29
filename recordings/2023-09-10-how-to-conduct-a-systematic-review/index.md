@@ -29,4 +29,6 @@ The material for this webinar is available for purchase:
         -   Result presentation
         -   Example of not a good systematic review
 
+**Buy material:** [<i class="fa-solid fa-cart-shopping" aria-hidden="true"></i> Click to buy](https://toyyibpay.com/How-to-do-systematic-review){target="_blank" rel="noopener noreferrer"}
+
 [Go to Recordings](../../recording.qmd)

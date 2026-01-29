@@ -26,4 +26,6 @@ The material for this webinar is available for purchase:
     6.  Kruskal Wallis test
     7.  Hands-on using R
 
+**Buy material:** [<i class="fa-solid fa-cart-shopping" aria-hidden="true"></i> Click to buy](https://toyyibpay.com/SNA-R){target="_blank" rel="noopener noreferrer"}
+
 [Go to Recordings](../../recording.qmd)

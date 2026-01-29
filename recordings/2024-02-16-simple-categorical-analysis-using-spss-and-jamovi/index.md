@@ -27,4 +27,6 @@ The material for this webinar is available for purchase:
     6.  Cochran-Mantel-Haenszel test
     7.  Hands-on using SPSS and jamovi
 
+**Buy material:** [<i class="fa-solid fa-cart-shopping" aria-hidden="true"></i> Click to buy](https://toyyibpay.com/SCA-SPSS-jamovi){target="_blank" rel="noopener noreferrer"}
+
 [Go to Recordings](../../recording.qmd)

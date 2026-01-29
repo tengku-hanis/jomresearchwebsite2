@@ -24,4 +24,6 @@ The recording and slides of this webinar is available for purchase:
     8.  Cover letter
     9.  Reviewer suggestion
 
+**Buy material:** [<i class="fa-solid fa-cart-shopping" aria-hidden="true"></i> Click to buy](https://toyyibpay.com/How-to-publish-papers){target="_blank" rel="noopener noreferrer"}
+
 [Go to Recordings](../../recording.qmd)

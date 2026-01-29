@@ -24,4 +24,6 @@ The material for this webinar is available for purchase:
     8.  Reference manager - Mendeley/Zotero
     9.  Use of AI in a write-up (my opinion)
 
+**Buy material:** [<i class="fa-solid fa-cart-shopping" aria-hidden="true"></i> Click to buy](https://toyyibpay.com/How-to-write-a-paper){target="_blank" rel="noopener noreferrer"}
+
 [Go to Recordings](../../recording.qmd)

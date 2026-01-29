@@ -24,4 +24,6 @@ The material for this webinar is available for purchase:
     3.  Running the bibliometric analysis
     4.  Hands-on in Web of Science database, R and biblioshiny
 
+**Buy material:** [<i class="fa-solid fa-cart-shopping" aria-hidden="true"></i> Click to buy](https://toyyibpay.com/Bibliometric-paper){target="_blank" rel="noopener noreferrer"}
+
 [Go to Recordings](../../recording.qmd)

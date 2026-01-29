@@ -23,4 +23,6 @@ The material for this webinar is available for purchase:
     5.  Basic plots
     6.  Hands-on using both software (practical step-by-step)
 
+**Buy material:** [<i class="fa-solid fa-cart-shopping" aria-hidden="true"></i> Click to buy](https://toyyibpay.com/Intro-to-SPSS-jamovi){target="_blank" rel="noopener noreferrer"}
+
 [Go to Recordings](../../recording.qmd)

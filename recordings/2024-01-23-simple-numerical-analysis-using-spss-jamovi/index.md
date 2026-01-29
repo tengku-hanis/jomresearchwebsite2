@@ -27,4 +27,6 @@ The material for this webinar is available for purchase:
     6.  Kruskal Wallis test
     7.  Hands-on using spss & jamovi (software are not provided)
 
+**Buy material:** [<i class="fa-solid fa-cart-shopping" aria-hidden="true"></i> Click to buy](https://toyyibpay.com/SNA-SPSS-jamovi){target="_blank" rel="noopener noreferrer"}
+
 [Go to Recordings](../../recording.qmd)

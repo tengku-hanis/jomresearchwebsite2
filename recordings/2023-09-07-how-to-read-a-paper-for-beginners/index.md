@@ -22,4 +22,6 @@ The material for this webinar is available for purchase:
     6.  Steps (my way) in reading a paper
     7.  How to use AI in reading a paper
 
+**Buy material:** [<i class="fa-solid fa-cart-shopping" aria-hidden="true"></i> Click to buy](https://toyyibpay.com/How-to-read-a-paper){target="_blank" rel="noopener noreferrer"}
+
 [Go to Recordings](../../recording.qmd)

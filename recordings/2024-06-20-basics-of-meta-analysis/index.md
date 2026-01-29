@@ -28,4 +28,6 @@ The material for this webinar is available for purchase:
     9.  Intro to jamovi software
     10. Hands-on meta-analysis using jamovi
 
+**Buy material:** [<i class="fa-solid fa-cart-shopping" aria-hidden="true"></i> Click to buy](https://toyyibpay.com/Meta-analysis-jamovi){target="_blank" rel="noopener noreferrer"}
+
 [Go to Recordings](../../recording.qmd)
