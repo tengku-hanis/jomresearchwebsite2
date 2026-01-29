@@ -19,7 +19,7 @@ website:
 
   page-footer: 
     center: |
-      {{< fa regular copyright >}} Jom Research, 2023-2025<br>
+      {{< fa regular copyright >}} Jom Research, 2023-2026<br>
       All rights are reserved 
 
 format:
