@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "webinar.html",
-    "href": "webinar.html",
-    "title": "Webinars",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Due to an ongoing company restructuring, live webinars are temporarily suspended. Recorded webinar sessions remain available for purchase.\nThank you for your understanding, we plan to resume live webinars once the reorganisation is complete."
-  },
-  {
-    "objectID": "recordings/2024-12-03-machine-learning-with-r/index.html",
-    "href": "recordings/2024-12-03-machine-learning-with-r/index.html",
-    "title": "Machine learning with R",
-    "section": "",
-    "text": "The material for this webinar is available for purchase:\n\nTitle: Machine learning with R\nLanguage: English\nPrice: RM350 (3-days recording, slides, R codes, and dummy data will be provided)\nContent:\n\nIntroduction to R and RStudio\nBasic concepts and terms in machine learning\nRegression algorithms\nClassification algorithms\nHyperparameters tuning\nEnsemble machine learning\nExplainable machine learning\nIntroduction to deep learning\nHands-on session in R\n\n\nBuy material:  Click to buy\nGo to Recordings"
+    "text": "Jom Research is a dedicated academic consultancy platform owned by TMH Research Kits Resources (SSM registration no: 202303206919/ CT0125644-X), based in Malaysia. Jom Research was established with the specific purpose of offering easily accessible and high-quality webinars focused on research and statistical analysis.\nWhat truly distinguishes Jom Research is our commitment to providing a comprehensive and seamless learning journey. Our meticulously designed webinars ensure that every participant, from those just starting their exploration to seasoned researchers seeking advanced insights, can progress effectively. We cover a full spectrum of concepts, starting from the foundational basics and advancing smoothly to the most sophisticated topics and cutting-edge techniques in research and statistical analysis.\nAt the heart of Jom Research’s mission is the idea of democratizing education through quality and accessibility. We recognize that essential learning should be available to learners of all levels, and we achieve this by offering valuable educational content that caters to a diverse audience and supports continuous professional development.\nDo join our webinars and elevate your research skills!"
   },
   {
     "objectID": "recordings/2024-03-01-correlation-and-regression-analysis-using-spss-jamovi/index.html",
@@ -21,41 +14,6 @@
     "text": "The material for this webinar is available for purchase:\n\nTitle: Correlation and regression analysis using SPSS & jamovi\nLanguage: English\nPrice: RM70 (recording, slides, and dummy data)\nPrerequisite: Basic knowledge of SPSS and jamovi, for those without the basics, you can either:\n\nBuy our webinars’ recording - An introduction to SPSS & jamovi - RM30\nOr watch some introductory videos on SPSS & jamovi on YouTube\n\nContent:\n\nSpearman correlation\nPearson correlation\nSimple & multiple linear regression\nSimple & multiple logistic regression\nVariable selection process\nRelated concepts such as interaction, outliers, and multicollinearity\nHands-on using SPSS and jamovi\n\n\nBuy material:  Click to buy\nGo to Recordings"
   },
   {
-    "objectID": "recordings/2024-02-16-simple-categorical-analysis-using-spss-and-jamovi/index.html",
-    "href": "recordings/2024-02-16-simple-categorical-analysis-using-spss-and-jamovi/index.html",
-    "title": "Simple categorical analysis using SPSS and jamovi",
-    "section": "",
-    "text": "The material for this webinar is available for purchase:\n\nTitle: Simple categorical analysis using SPSS & jamovi\nLanguage: English\nPrice: RM50 (recording, slides, and dummy data)\nPrerequisite: Basic knowledge of SPSS and jamovi, you can either:\n\nBuy our webinar recording: An introduction to SPSS & jamovi - RM30\nOr watch some introductory videos on SPSS & jamovi on YouTube\n\nContent:\n\nOdds ratio, risk ratio, and confounder\nPearson’s chi-square test\nFisher’s exact test\nMcNemar’s test\nCochran’s Q test\nCochran-Mantel-Haenszel test\nHands-on using SPSS and jamovi\n\n\nBuy material:  Click to buy\nGo to Recordings"
-  },
-  {
-    "objectID": "recordings/2024-02-14-simple-numerical-analysis-using-r/index.html",
-    "href": "recordings/2024-02-14-simple-numerical-analysis-using-r/index.html",
-    "title": "Simple numerical analysis using R",
-    "section": "",
-    "text": "The material for this webinar is available for purchase:\n\nTitle: Simple numerical analysis using R\nLanguage: English\nPrice: RM50 (recording, slides, and e-certificates will be provided)\nPrerequisite: Basic knowledge of R, you can either:\n\nBuy our webinar recording Intro to R (for non-coders) - RM50\nOr watch some introductory videos on R on YouTube\n\nContent:\n\nIndependent t-test and Welch’s t-test\nPaired t-test\nOne-way ANOVA and Welch’s ANOVA\nMann-Whitney test\nWilcoxon signed-rank test\nKruskal Wallis test\nHands-on using R\n\n\nBuy material:  Click to buy\nGo to Recordings"
-  },
-  {
-    "objectID": "recordings/2023-11-09-how-to-do-a-meta-analysis/index.html",
-    "href": "recordings/2023-11-09-how-to-do-a-meta-analysis/index.html",
-    "title": "How to do a meta-analysis",
-    "section": "",
-    "text": "The material for this webinar is available for purchase:\n\nTitle: How to do a meta-analysis\nLanguage: English\nPrice: RM80 (6-hour recording, slides, dummy data, and R codes/scripts)\nPrerequisite: Basic knowledge of R and jamovi, you can either:\n\nBuy our webinar recordings:\n\nIntro to R (for non-coders): RM50\nAn introduction to SPSS & jamovi: RM30\n\nOr watch some introductory videos on R and jamovi on YouTube\n\nContent:\n\nWhat is a meta-analysis\nFixed vs random effect model\nHeterogeneity\nPublication bias\nForest plot\nFunnel plot\nRisk of bias assessment\nOutlier and influential analysis\nType of meta-analysis\nData format for meta-analysis\nStep-by-step to do a meta-analyis\nHands-on in R and jamovi\n\n\nBuy material:  Click to buy\nGo to Recordings"
-  },
-  {
-    "objectID": "recordings/2023-10-12-intro-to-r-for-non-coders/index.html",
-    "href": "recordings/2023-10-12-intro-to-r-for-non-coders/index.html",
-    "title": "Intro to R (for non-coders)",
-    "section": "",
-    "text": "The material for this webinar is available for purchase:\n\nTitle: Intro to R (for non-coders)\nLanguage: English\nPrice: RM50 (7 hour recording, slides, dummy data, and R codes/scripts)\nContent:\n\nFlow of data analysis\nR, RStudio, and Posit\nInstallation, updates, and R packages\nData types in R\nIndexing and data wrangling\nIdentifying missing values and duplicates\nDescriptive statistics\nBasic plots\nHands-on\n\n\nBuy material:  Click to buy\nGo to Recordings"
-  },
-  {
-    "objectID": "recordings/2023-09-10-how-to-conduct-a-systematic-review/index.html",
-    "href": "recordings/2023-09-10-how-to-conduct-a-systematic-review/index.html",
-    "title": "How to conduct a systematic review",
-    "section": "",
-    "text": "The material for this webinar is available for purchase:\n\nTitle: How to conduct a systematic review\nLanguage: English\nPrice: RM80 (recording, slides, and e-certificate are included)\nContent:\n\nWhat is a systematic review\nType of review papers\nStep by step of conducting a systematic review:\n\nDeveloping a review protocol\nProtocol registration\nSearch terms\nSearch strategies\nScreening strategies\nCritical appraisal tools\n\nWriting a systematic review paper:\n\nPRISMA and other guidelines\nResult presentation\nExample of not a good systematic review\n\n\n\nBuy material:  Click to buy\nGo to Recordings"
-  },
-  {
     "objectID": "recordings/2023-09-07-how-to-read-a-paper-for-beginners/index.html",
     "href": "recordings/2023-09-07-how-to-read-a-paper-for-beginners/index.html",
     "title": "How to read a paper for beginners",
@@ -63,32 +21,11 @@
     "text": "The material for this webinar is available for purchase:\n\nTitle: How to read a paper for beginners\nLanguage: English\nPrice: RM10\nContent:\n\nWhy read a paper?\nTypes of research paper\nWhere to find a paper\nSections in a paper\nCritical appraisal tools\nSteps (my way) in reading a paper\nHow to use AI in reading a paper\n\n\nBuy material:  Click to buy\nGo to Recordings"
   },
   {
-    "objectID": "recording.html",
-    "href": "recording.html",
-    "title": "Webinar Recordings",
+    "objectID": "recordings/2024-12-03-machine-learning-with-r/index.html",
+    "href": "recordings/2024-12-03-machine-learning-with-r/index.html",
+    "title": "Machine learning with R",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nMachine learning with R\n\n\n\nData Analysis\n\nMachine Learning\n\nR\n\n2024\n\n\n\n\n\n\nDec 14, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nBasics of meta-analysis\n\n\n\nData Analysis\n\nMeta-analysis\n\nJamovi\n\n2024\n\n\n\n\n\n\nJun 29, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nCorrelation and regression analysis using R\n\n\n\nData Analysis\n\nR\n\n2024\n\n\n\n\n\n\nMar 11, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nCorrelation and regression analysis using SPSS & jamovi\n\n\n\nData Analysis\n\nSPSS\n\nJamovi\n\n2024\n\n\n\n\n\n\nMar 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nSimple categorical analysis using R\n\n\n\nData Analysis\n\nR\n\n2024\n\n\n\n\n\n\nFeb 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nSimple categorical analysis using SPSS and jamovi\n\n\n\nData Analysis\n\nSPSS\n\nJamovi\n\n2024\n\n\n\n\n\n\nFeb 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nSimple numerical analysis using R\n\n\n\nData Analysis\n\nR\n\n2024\n\n\n\n\n\n\nFeb 21, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nSimple numerical analysis using SPSS & jamovi\n\n\n\nData Analysis\n\nSPSS\n\nJamovi\n\n2024\n\n\n\n\n\n\nJan 31, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nHow to do a meta-analysis\n\n\n\nData Analysis\n\nMeta-analysis\n\nR\n\nJamovi\n\n2023\n\n\n\n\n\n\nNov 23, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nHow to write a bibliometric paper\n\n\n\nData Analysis\n\nScientific Publication\n\nR\n\n2023\n\n\n\n\n\n\nNov 7, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to R (for non-coders)\n\n\n\nR\n\nStatistical Software\n\n2023\n\n\n\n\n\n\nOct 12, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nAn introduction to SPSS & JAMOVI\n\n\n\nSPSS\n\nJamovi\n\nStatistical Software\n\n2023\n\n\n\n\n\n\nSep 29, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nHow to conduct a systematic review\n\n\n\nSystematic Review\n\nScientific Publication\n\n2023\n\n\n\n\n\n\nSep 10, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nHow to write a scientific paper for beginners (for health sciences)\n\n\n\nScientific Publication\n\n2023\n\n\n\n\n\n\nSep 7, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nHow to read a paper for beginners\n\n\n\nScientific Publication\n\n2023\n\n\n\n\n\n\nSep 7, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nHow to publish a paper for beginners and newbies (for health sciences)\n\n\n\nScientific Publication\n\n2023\n\n\n\n\n\n\nAug 5, 2023\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact Us",
-    "section": "",
-    "text": "For any inquiries, please get in touch with us.\n\n\n\n\n\n   &lt;label&gt;Don’t fill this out: &lt;input name=\"bot-field\"&gt;&lt;/label&gt;\n\n\n\nYour Name: \n\n\n\nYour Email: \n\n\n\nSubject: \n\n\n\nYour Message:\n\n\n\n\n\nSend"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Jom Research is a dedicated academic consultancy platform owned by TMH Research Kits Resources (SSM registration no: 202303206919/ CT0125644-X), based in Malaysia. Jom Research was established with the specific purpose of offering easily accessible and high-quality webinars focused on research and statistical analysis.\nWhat truly distinguishes Jom Research is our commitment to providing a comprehensive and seamless learning journey. Our meticulously designed webinars ensure that every participant, from those just starting their exploration to seasoned researchers seeking advanced insights, can progress effectively. We cover a full spectrum of concepts, starting from the foundational basics and advancing smoothly to the most sophisticated topics and cutting-edge techniques in research and statistical analysis.\nAt the heart of Jom Research’s mission is the idea of democratizing education through quality and accessibility. We recognize that essential learning should be available to learners of all levels, and we achieve this by offering valuable educational content that caters to a diverse audience and supports continuous professional development.\nDo join our webinars and elevate your research skills!"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jom Research",
-    "section": "",
-    "text": "We help postgraduate students, early‑career researchers, and junior lecturers by providing webinars and webinar recordings on statistical analysis and research.\nCheck out our future webinars and webinar recordings!"
+    "text": "The material for this webinar is available for purchase:\n\nTitle: Machine learning with R\nLanguage: English\nPrice: RM350 (3-days recording, slides, R codes, and dummy data will be provided)\nContent:\n\nIntroduction to R and RStudio\nBasic concepts and terms in machine learning\nRegression algorithms\nClassification algorithms\nHyperparameters tuning\nEnsemble machine learning\nExplainable machine learning\nIntroduction to deep learning\nHands-on session in R\n\n\nBuy material:  Click to buy\nGo to Recordings"
   },
   {
     "objectID": "recordings/2023-09-07-how-to-publish-a-paper-for-beginners-and-newbies-for-health-sciences/index.html",
@@ -112,6 +49,90 @@
     "text": "The material for this webinar is available for purchase:\n\nTitle: An introduction to SPSS & jamovi\nLanguage: English\nPrice: RM30 (recording, slides, and dummy data used in the webinar will be provided)\nContent:\n\nBasic functionalities of the software\nData exploration\nFlow of data analysis\nDescriptive statistics\nBasic plots\nHands-on using both software (practical step-by-step)\n\n\nBuy material:  Click to buy\nGo to Recordings"
   },
   {
+    "objectID": "recordings/2024-06-20-basics-of-meta-analysis/index.html",
+    "href": "recordings/2024-06-20-basics-of-meta-analysis/index.html",
+    "title": "Basics of meta-analysis",
+    "section": "",
+    "text": "The material for this webinar is available for purchase:\n\nTitle: Basics of meta-analysis\nTime: 09.30am - 04.30pm (MYT)\nLanguage: English\nPrice: RM100 (recording, slides, dummy data, and e-certificates will be provided)\nContent:\n\nWhat is a meta-analysis\nFixed vs random effect model\nHeterogeneity\nPublication bias\nForest plot\nFunnel plot\nRisk of bias assessment\nOutlier and influential analysis\nIntro to jamovi software\nHands-on meta-analysis using jamovi\n\n\nBuy material:  Click to buy\nGo to Recordings"
+  },
+  {
+    "objectID": "recordings/2023-10-12-intro-to-r-for-non-coders/index.html",
+    "href": "recordings/2023-10-12-intro-to-r-for-non-coders/index.html",
+    "title": "Intro to R (for non-coders)",
+    "section": "",
+    "text": "The material for this webinar is available for purchase:\n\nTitle: Intro to R (for non-coders)\nLanguage: English\nPrice: RM50 (7 hour recording, slides, dummy data, and R codes/scripts)\nContent:\n\nFlow of data analysis\nR, RStudio, and Posit\nInstallation, updates, and R packages\nData types in R\nIndexing and data wrangling\nIdentifying missing values and duplicates\nDescriptive statistics\nBasic plots\nHands-on\n\n\nBuy material:  Click to buy\nGo to Recordings"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jom Research",
+    "section": "",
+    "text": "We help postgraduate students, early‑career researchers, and junior lecturers by providing webinars and webinar recordings on statistical analysis and research.\nCheck out our future webinars and webinar recordings!"
+  },
+  {
+    "objectID": "webinar.html",
+    "href": "webinar.html",
+    "title": "Webinars",
+    "section": "",
+    "text": "Due to an ongoing company restructuring, live webinars are temporarily suspended. Recorded webinar sessions remain available for purchase.\nThank you for your understanding, we plan to resume live webinars once the reorganisation is complete."
+  },
+  {
+    "objectID": "recording.html",
+    "href": "recording.html",
+    "title": "Webinar Recordings",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nMachine learning with R\n\n\n\nData Analysis\n\nMachine Learning\n\nR\n\n2024\n\n\n\n\n\n\nDec 14, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nBasics of meta-analysis\n\n\n\nData Analysis\n\nMeta-analysis\n\nJamovi\n\n2024\n\n\n\n\n\n\nJun 29, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nCorrelation and regression analysis using R\n\n\n\nData Analysis\n\nR\n\n2024\n\n\n\n\n\n\nMar 11, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nCorrelation and regression analysis using SPSS & jamovi\n\n\n\nData Analysis\n\nSPSS\n\nJamovi\n\n2024\n\n\n\n\n\n\nMar 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nSimple categorical analysis using R\n\n\n\nData Analysis\n\nR\n\n2024\n\n\n\n\n\n\nFeb 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nSimple categorical analysis using SPSS and jamovi\n\n\n\nData Analysis\n\nSPSS\n\nJamovi\n\n2024\n\n\n\n\n\n\nFeb 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nSimple numerical analysis using R\n\n\n\nData Analysis\n\nR\n\n2024\n\n\n\n\n\n\nFeb 21, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nSimple numerical analysis using SPSS & jamovi\n\n\n\nData Analysis\n\nSPSS\n\nJamovi\n\n2024\n\n\n\n\n\n\nJan 31, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nHow to do a meta-analysis\n\n\n\nData Analysis\n\nMeta-analysis\n\nR\n\nJamovi\n\n2023\n\n\n\n\n\n\nNov 23, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nHow to write a bibliometric paper\n\n\n\nData Analysis\n\nScientific Publication\n\nR\n\n2023\n\n\n\n\n\n\nNov 7, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to R (for non-coders)\n\n\n\nR\n\nStatistical Software\n\n2023\n\n\n\n\n\n\nOct 12, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nAn introduction to SPSS & JAMOVI\n\n\n\nSPSS\n\nJamovi\n\nStatistical Software\n\n2023\n\n\n\n\n\n\nSep 29, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nHow to conduct a systematic review\n\n\n\nSystematic Review\n\nScientific Publication\n\n2023\n\n\n\n\n\n\nSep 10, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nHow to write a scientific paper for beginners (for health sciences)\n\n\n\nScientific Publication\n\n2023\n\n\n\n\n\n\nSep 7, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nHow to read a paper for beginners\n\n\n\nScientific Publication\n\n2023\n\n\n\n\n\n\nSep 7, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nHow to publish a paper for beginners and newbies (for health sciences)\n\n\n\nScientific Publication\n\n2023\n\n\n\n\n\n\nAug 5, 2023\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Us",
+    "section": "",
+    "text": "For any inquiries, please get in touch with us.\n\n\n\n\n\n   &lt;label&gt;Don’t fill this out: &lt;input name=\"bot-field\"&gt;&lt;/label&gt;\n\n\n\nYour Name: \n\n\n\nYour Email: \n\n\n\nSubject: \n\n\n\nYour Message:\n\n\n\n\n\nSend"
+  },
+  {
+    "objectID": "thank-you.html",
+    "href": "thank-you.html",
+    "title": "Thank You!",
+    "section": "",
+    "text": "We have received your message and will respond as soon as possible.\n\nBack to Contact Me"
+  },
+  {
+    "objectID": "recordings/2023-09-10-how-to-conduct-a-systematic-review/index.html",
+    "href": "recordings/2023-09-10-how-to-conduct-a-systematic-review/index.html",
+    "title": "How to conduct a systematic review",
+    "section": "",
+    "text": "The material for this webinar is available for purchase:\n\nTitle: How to conduct a systematic review\nLanguage: English\nPrice: RM80 (recording, slides, and e-certificate are included)\nContent:\n\nWhat is a systematic review\nType of review papers\nStep by step of conducting a systematic review:\n\nDeveloping a review protocol\nProtocol registration\nSearch terms\nSearch strategies\nScreening strategies\nCritical appraisal tools\n\nWriting a systematic review paper:\n\nPRISMA and other guidelines\nResult presentation\nExample of not a good systematic review\n\n\n\nBuy material:  Click to buy\nGo to Recordings"
+  },
+  {
+    "objectID": "recordings/2024-03-01-correlation-and-regression-analysis-using-r/index.html",
+    "href": "recordings/2024-03-01-correlation-and-regression-analysis-using-r/index.html",
+    "title": "Correlation and regression analysis using R",
+    "section": "",
+    "text": "The material for this webinar is available for purchase:\n\nTitle: Correlation and regression analysis using R\nLanguage: English\nPrice: RM70 (recording, slides, dummy data, and R codes)\nPrerequisite: Basic knowledge of R, for those without the basics, you can either:\n\nBuy our webinar recording: Intro to R (for non-coders) - RM50\nOr watch some introductory videos on R on YouTube\n\nContent:\n\nSpearman correlation\nPearson correlation\nSimple & multiple linear regression\nSimple & multiple logistic regression\nVariable selection\nRelated concepts such as interaction, outliers, and multicollinearity\nHands-on using R\n\n\nBuy material:  Click to buy\nGo to Recordings"
+  },
+  {
+    "objectID": "recordings/2023-11-09-how-to-do-a-meta-analysis/index.html",
+    "href": "recordings/2023-11-09-how-to-do-a-meta-analysis/index.html",
+    "title": "How to do a meta-analysis",
+    "section": "",
+    "text": "The material for this webinar is available for purchase:\n\nTitle: How to do a meta-analysis\nLanguage: English\nPrice: RM80 (6-hour recording, slides, dummy data, and R codes/scripts)\nPrerequisite: Basic knowledge of R and jamovi, you can either:\n\nBuy our webinar recordings:\n\nIntro to R (for non-coders): RM50\nAn introduction to SPSS & jamovi: RM30\n\nOr watch some introductory videos on R and jamovi on YouTube\n\nContent:\n\nWhat is a meta-analysis\nFixed vs random effect model\nHeterogeneity\nPublication bias\nForest plot\nFunnel plot\nRisk of bias assessment\nOutlier and influential analysis\nType of meta-analysis\nData format for meta-analysis\nStep-by-step to do a meta-analyis\nHands-on in R and jamovi\n\n\nBuy material:  Click to buy\nGo to Recordings"
+  },
+  {
+    "objectID": "recordings/2024-02-16-simple-categorical-analysis-using-spss-and-jamovi/index.html",
+    "href": "recordings/2024-02-16-simple-categorical-analysis-using-spss-and-jamovi/index.html",
+    "title": "Simple categorical analysis using SPSS and jamovi",
+    "section": "",
+    "text": "The material for this webinar is available for purchase:\n\nTitle: Simple categorical analysis using SPSS & jamovi\nLanguage: English\nPrice: RM50 (recording, slides, and dummy data)\nPrerequisite: Basic knowledge of SPSS and jamovi, you can either:\n\nBuy our webinar recording: An introduction to SPSS & jamovi - RM30\nOr watch some introductory videos on SPSS & jamovi on YouTube\n\nContent:\n\nOdds ratio, risk ratio, and confounder\nPearson’s chi-square test\nFisher’s exact test\nMcNemar’s test\nCochran’s Q test\nCochran-Mantel-Haenszel test\nHands-on using SPSS and jamovi\n\n\nBuy material:  Click to buy\nGo to Recordings"
+  },
+  {
+    "objectID": "recordings/2024-02-16-simple-categorical-analysis-using-r/index.html",
+    "href": "recordings/2024-02-16-simple-categorical-analysis-using-r/index.html",
+    "title": "Simple categorical analysis using R",
+    "section": "",
+    "text": "The material for this webinar is available for purchase:\n\nTitle: Simple categorical analysis using R\nLanguage: English\nPrice: RM50 (recording, slides, and e-certificates will be provided)\nPrerequisite: Basic knowledge of R, you can either:\n\nBuy our webinar recording: Intro to R (for non-coders) - RM50\nOr watch some introductory videos on R on YouTube\n\nContent:\n\nOdds ratio, risk ratio, and confounder\nPearson’s chi-square test\nFisher’s exact test\nMcNemar’s test\nCochran’s Q test\nCochran-Mantel-Haenszel test\nHands-on using R\n\n\nBuy material:  Click to buy\nGo to Recordings"
+  },
+  {
     "objectID": "recordings/2023-10-26-how-to-write-a-bibliometric-paper/index.html",
     "href": "recordings/2023-10-26-how-to-write-a-bibliometric-paper/index.html",
     "title": "How to write a bibliometric paper",
@@ -126,31 +147,10 @@
     "text": "The material for this webinar is available for purchase:\n\nTitle: Simple numerical analysis using SPSS & jamovi\nLanguage: English\nPrice: RM50 (recording, slides, and dummy data)\nPrerequisite: Basic knowledge of SPSS and jamovi, you can either:\n\nBuy our webinars’ recording - An introduction to SPSS & jamovi - RM30\nOr watch some introductory videos on SPSS & jamovi on YouTube\n\nContent:\n\nIndependent t-test and Welch’s t-test\nPaired t-test\nOne-way ANOVA and Welch’s ANOVA\nMann-Whitney test\nWilcoxon signed-rank test\nKruskal Wallis test\nHands-on using spss & jamovi (software are not provided)\n\n\nBuy material:  Click to buy\nGo to Recordings"
   },
   {
-    "objectID": "recordings/2024-02-16-simple-categorical-analysis-using-r/index.html",
-    "href": "recordings/2024-02-16-simple-categorical-analysis-using-r/index.html",
-    "title": "Simple categorical analysis using R",
+    "objectID": "recordings/2024-02-14-simple-numerical-analysis-using-r/index.html",
+    "href": "recordings/2024-02-14-simple-numerical-analysis-using-r/index.html",
+    "title": "Simple numerical analysis using R",
     "section": "",
-    "text": "The material for this webinar is available for purchase:\n\nTitle: Simple categorical analysis using R\nLanguage: English\nPrice: RM50 (recording, slides, and e-certificates will be provided)\nPrerequisite: Basic knowledge of R, you can either:\n\nBuy our webinar recording: Intro to R (for non-coders) - RM50\nOr watch some introductory videos on R on YouTube\n\nContent:\n\nOdds ratio, risk ratio, and confounder\nPearson’s chi-square test\nFisher’s exact test\nMcNemar’s test\nCochran’s Q test\nCochran-Mantel-Haenszel test\nHands-on using R\n\n\nBuy material:  Click to buy\nGo to Recordings"
-  },
-  {
-    "objectID": "recordings/2024-03-01-correlation-and-regression-analysis-using-r/index.html",
-    "href": "recordings/2024-03-01-correlation-and-regression-analysis-using-r/index.html",
-    "title": "Correlation and regression analysis using R",
-    "section": "",
-    "text": "The material for this webinar is available for purchase:\n\nTitle: Correlation and regression analysis using R\nLanguage: English\nPrice: RM70 (recording, slides, dummy data, and R codes)\nPrerequisite: Basic knowledge of R, for those without the basics, you can either:\n\nBuy our webinar recording: Intro to R (for non-coders) - RM50\nOr watch some introductory videos on R on YouTube\n\nContent:\n\nSpearman correlation\nPearson correlation\nSimple & multiple linear regression\nSimple & multiple logistic regression\nVariable selection\nRelated concepts such as interaction, outliers, and multicollinearity\nHands-on using R\n\n\nBuy material:  Click to buy\nGo to Recordings"
-  },
-  {
-    "objectID": "recordings/2024-06-20-basics-of-meta-analysis/index.html",
-    "href": "recordings/2024-06-20-basics-of-meta-analysis/index.html",
-    "title": "Basics of meta-analysis",
-    "section": "",
-    "text": "The material for this webinar is available for purchase:\n\nTitle: Basics of meta-analysis\nTime: 09.30am - 04.30pm (MYT)\nLanguage: English\nPrice: RM100 (recording, slides, dummy data, and e-certificates will be provided)\nContent:\n\nWhat is a meta-analysis\nFixed vs random effect model\nHeterogeneity\nPublication bias\nForest plot\nFunnel plot\nRisk of bias assessment\nOutlier and influential analysis\nIntro to jamovi software\nHands-on meta-analysis using jamovi\n\n\nBuy material:  Click to buy\nGo to Recordings"
-  },
-  {
-    "objectID": "thank-you.html",
-    "href": "thank-you.html",
-    "title": "Thank You!",
-    "section": "",
-    "text": "We have received your message and will respond as soon as possible.\n\nBack to Contact Me"
+    "text": "The material for this webinar is available for purchase:\n\nTitle: Simple numerical analysis using R\nLanguage: English\nPrice: RM50 (recording, slides, and e-certificates will be provided)\nPrerequisite: Basic knowledge of R, you can either:\n\nBuy our webinar recording Intro to R (for non-coders) - RM50\nOr watch some introductory videos on R on YouTube\n\nContent:\n\nIndependent t-test and Welch’s t-test\nPaired t-test\nOne-way ANOVA and Welch’s ANOVA\nMann-Whitney test\nWilcoxon signed-rank test\nKruskal Wallis test\nHands-on using R\n\n\nBuy material:  Click to buy\nGo to Recordings"
   }
 ]
